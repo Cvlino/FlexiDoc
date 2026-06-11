@@ -50,7 +50,8 @@
 ### 在线使用
 
 可直接点进链接进行预览体验：
-- 🔗(https://flexibledoc.netlify.app/)
+- 🔗https://flexibledoc.netlify.app/
+- 或者：🔗https://6a297027cf862c36a0d21bba--flexibledoc.netlify.app/
 
 ### 本地开发
 
